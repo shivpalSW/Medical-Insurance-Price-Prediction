@@ -12,8 +12,6 @@ Different persons have different body types and different living culture. So the
 ### Project Overview
 ------------------------------------------------
 * Seek insight from the dataset with Exploratory Data Analysis
-
 * Performed data processing, data engineering to prepare data befor modeling      
-
 * Built a model to predict Insurance Cost based on the features
 
