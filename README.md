@@ -11,11 +11,12 @@ Different persons have different body types and different living culture. So the
 
 ### Project Overview
 ------------------------------------------------
-* Seek insight from the dataset with Exploratory Data Analysis
+* Checked insight from the dataset with Exploratory Data Analysis
 * Performed data processing, data engineering to prepare data befor modeling      
 * Built a model to predict Insurance Cost based on the features
+* Evaluated the model using various Performance Metrics like RMSE, R2, Testing Accuracy, Training Accuracy and MAE.
 
-### Content
+### DATA DESCRIPTION
 #### Columns
 
 1. age: age of primary beneficiary
@@ -32,3 +33,15 @@ objective index of body weight (kg / m ^ 2) using the ratio of height to weight,
 6. region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 
 7. charges: Individual medical costs billed by health insurance
+
+
+### EXPLORATORY DATA ANALYSIS (EDA)
+
+### Insights of EDA
+
+### DATA PROCESSING
+
+### MODEL EVALUATION
+
+
+### CONCLUSION
