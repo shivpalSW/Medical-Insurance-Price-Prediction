@@ -1,0 +1,5 @@
+
+*.csv
+*.pdf
+CSV_Files/
+database/
