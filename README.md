@@ -51,3 +51,8 @@ objective index of body weight (kg / m ^ 2) using the ratio of height to weight,
 
 ### CONCLUSION
 ------------------------------------------------
+
+### Forking a repo
+Reference :- https://www.freecodecamp.org/news/how-to-fork-a-github-repository/
+
+![image](https://www.freecodecamp.org/news/content/images/2022/02/GitHub-Fork.gif)
