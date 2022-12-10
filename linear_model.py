@@ -11,3 +11,9 @@ from sklearn.metrics import precision_score,recall_score,f1_score,accuracy_score
 
 import matplotlib.pyplot as plt 
 import seaborn as sns
+
+
+
+################################################################
+mse_Lin_Train= mean_squared_error(y_train,y_pred_train)
+print("Mean Squared Error is: ",mse_Lin_Train)

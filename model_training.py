@@ -17,10 +17,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns 
  
 
-#%matplotlib inline
-
-import warnings
-warnings.filterwarnings('ignore')
 
 ################################################################
 mse_Lin_Train= mean_squared_error(y_train,y_pred_train)
